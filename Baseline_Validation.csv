@@ -1,0 +1,66 @@
+Author	Paper	Paper_Rank	h_Orig	h_ModelA	h_ModelB	GitHub_AD	GitHub_Rank
+Lingxiao Meng	Virtual Reality Based Robot Teleoperation via Human-Scene Interaction	1	9	4	4	28	1
+Mihaela Gaman	SaRoCo: Detecting Satire in a Novel Romanian Corpus of News Articles	2	8	4	4	167	2
+Mihaela Gaman	FreCDo: A Large Corpus for French Cross-Domain Dialect Identification	1	8	4	4	123	2
+Pauloro Costa	Learning 2-opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement Learning	1	7	4	4	44	1
+Pauloro Costa	A Genetic Algorithm for a Green Vehicle Routing Problem	1	7	4	4	4	1
+Ye Hong	Context-aware multi-head self-attentional neural network model for next location prediction	1	8	5	4	4385	1
+Ye Hong	How do you go where? Improving next location prediction by learning travel mode information using transformers	1	8	5	4	3213	1
+Ye Hong	Traffic4cast-Traffic Map Movie Forecasting - Team MIE-Lab	2	8	5	4	2888	1
+Ye Hong	Predicting visit frequencies to new places	2	8	5	4	315	2
+Ye Hong	A Clustering-Based Framework for Individual Travel Behaviour Change Detection	1	8	5	4	2742	1
+Ye Hong	Evaluating geospatial context information for travel mode detection	1	8	5	4	3614	1
+Henry Martin	Influence of tracking duration on the privacy of individual mobility graphs	2	11	6	6	213	2
+Henry Martin	Trackintel: An open-source Python library for human mobility analysis	1	11	6	6	40840	2
+Nina Wiedemann	Influence of tracking duration on the privacy of individual mobility graphs	1	11	5	6	1250	1
+Nina Wiedemann	Unlocking social network analysis methods for studying human mobility	1	11	5	6	84513	1
+Nina Wiedemann	Trackintel: An open-source Python library for human mobility analysis	3	11	5	6	6144	5
+Roniki Anjaneyulu	WATcycle: A software for terrestrial water cycle and budget analysis with case studies on the Amazon and Mississippi Basins	1	2	1	1	6197	1
+Nathan Shauer	DFNMesh: Finite element meshing for discrete fracture matrix models	2	5	1	2	199176	2
+Nathan Shauer	Less than 500 lines self-contained Python finite element implementation of the phase-field method for fracture mechanics	-1	5	1	2	2681	1
+Jos茅 B. Villegas	DFNMesh: Finite element meshing for discrete fracture matrix models	3	2	1	1	82567	3
+Indrajeet Sahu	Bilinear-inverse-mapper: Analytical solution and algorithm for inverse mapping of bilinear interpolation of quadrilaterals	1	2	2	2	2705	1
+Linda Christoffersen	ICE2WSS; An R package for estimating river water surface slopes from ICESat-2	1	3	1	1	8619919	1
+Supath Dhital	A framework for the evaluation of flood inundation predictions over extensive benchmark databases	2	2	1	1	8974	1
+Supath Dhital	FIMserv v.1.0: A tool for streamlining Flood Inundation Mapping (FIM) using the United States operational hydrological forecasting framework	2	2	1	1	21498	1
+Anupal Baruah	FIMserv v.1.0: A tool for streamlining Flood Inundation Mapping (FIM) using the United States operational hydrological forecasting framework	1	7	4	4	4	2
+Sagy Cohen	FIMserv v.1.0: A tool for streamlining Flood Inundation Mapping (FIM) using the United States operational hydrological forecasting framework	3	5	1	1	0	3
+Craig Robson	An open framework for analysing future flood risk in urban areas	2	2	1	1	239	2
+James Virgo	An open framework for analysing future flood risk in urban areas	5	3	1	1	68700	1
+William M. Coombs	AMPLE: A Material Point Learning Environment	1	23	12	12	13393	1
+Michele Licata	ExMAD (Expert-based Multitemporal AI Detector): An open-source methodological framework for remote and field landslide inventory	1	3	2	2	523	1
+Michele Licata	The GEMMA (Geo-EnvironMental multivariate analysis) toolbox: A user-friendly software for multivariate analysis	2	3	2	2	5804	1
+Tyler Schostek	A stochastic model of future extreme temperature events for infrastructure analysis	2	2	1	1	31900	1
+Juan de Lara	Automated end-to-end testing for conversational agents	1	2	0	0	7603	1
+Esther Guerra	Automated end-to-end testing for conversational agents	3	36	18	17	0	3
+Amirreza Mahbod	Evaluating pre-trained convolutional neural networks and foundation models as feature extractors for content-based medical image retrieval	1	18	13	12	4027	1
+Amirreza Mahbod	CryoNuSeg: A dataset for nuclei instance segmentation of cryosectioned H&E-stained histological images	1	18	13	12	835	1
+Amirreza Mahbod	The effects of skin lesion segmentation on the performance of dermatoscopic image classification	1	18	13	12	8067	1
+Andrew D. White	Predicting small molecules solubility on endpoint devices using deep ensemble neural networks	2	9	4	4	8082	1
+Andrew D. White	A review of large language models and autonomous agents in chemistry	-1	9	4	4	0	4
+Andrew D. White	Recent advances in the self-referencing embedded strings (SELFIES) library	4	9	4	4	185	5
+Andrew D. White	Assessment of chemistry knowledge in large language models that generate code	-1	9	4	4	1736	1
+Andrew D. White	Predicting chemical shifts with graph neural networks	-1	9	4	4	79140	1
+Andrew D. White	Learning peptide properties with positive examples only	2	9	4	4	152	2
+Andrew D. White	SELFIES and the future of molecular string representations	28	9	4	4	185	5
+Benjamin Bancher	CryoNuSeg: A dataset for nuclei instance segmentation of cryosectioned H&E-stained histological images	3	2	2	2	18	2
+Benjamin Bancher	Improving Mask R-CNN for Nuclei Instance Segmentation in Hematoxylin & Eosin-Stained Histological Images	1	2	2	2	9190	1
+Caitao Zhan	DeepMTL Pro: Deep Learning Based Multiple Transmitter Localization and Power Estimation	1	9	6	6	851101	1
+Himanshu Gupta	A Large-Scale Dataset for Small and Tiny Object Detection from Aerial Imagery	2	11	7	6	698	1
+Jia Fu	UM-CAM: Uncertainty-weighted multi-resolution class activation maps for weakly-supervised segmentation	1	5	3	2	5442	1
+Jia Mi	GLM-EP: An Equivariant Graph Neural Network and Protein Language Model Integrated Framework for Predicting Essential Proteins in Bacteriophages	1	3	1	1	4165	1
+Jia Mi	USPDB: A novel U-shaped equivariant graph neural network with subgraph sampling for protein-DNA binding site prediction	1	3	1	1	11409	1
+Jia Mi	GGN-GO: geometric graph networks for predicting protein function by multi-scale structure features	1	3	1	1	3042205	1
+Mayk Caldas Ramos	Predicting small molecules solubility on endpoint devices using deep ensemble neural networks	1	8	5	4	6391	2
+Mayk Caldas Ramos	A review of large language models and autonomous agents in chemistry	1	8	5	4	514	1
+Michalis Lazarou	Exploiting unlabeled data in few-shot learning with manifold similarity and label cleaning	1	7	4	4	5357	1
+Michalis Lazarou	Iterative label cleaning for transductive and semi-supervised few-shot learning	1	7	4	4	5357	1
+Michalis Lazarou	Adaptive manifold for imbalanced transductive few-shot learning	1	7	4	4	1636041	1
+Michalis Lazarou	Adaptive Anchor Label Propagation for Transductive Few-Shot Learning	1	7	4	4	786	1
+Michalis Lazarou	Tensor feature hallucination for few-shot learning	1	7	4	4	2249	1
+Xiaoke Wang	UC-PUAL: A universally consistent classifier of positive-unlabelled data	1	1	0	0	2269	1
+Xiaoke Wang	GKF-PUAL: A group kernel-free approach to positive-unlabeled learning with variable selection	1	1	0	0	8808	1
+Yi Liao	Dynamic accumulated attention map for interpreting evolution of decision-making in vision transformer	1	2	1	1	56334	1
+Yi Liao	Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models	1	2	1	1	54936	1
+Aryan Singh	Revolutionizing Brain Tumor Diagnosis with Convolutional Neural Networks	1	2	1	1	2279	1
+Sally R. Ellingson	Computationally Characterizing Genomic Pipelines Using High-confident Call Sets	2	15	9	9	1	1
